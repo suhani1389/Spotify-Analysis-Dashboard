@@ -4,17 +4,25 @@ Dive into the world of music trends with this interactive Spotify Music Analysis
 
 
 🔍 Key Insights
+
 📅 Monthly Trends – Discover which months saw the highest average streams.
+
 📈 Streams Over Time – See how track releases have shaped streaming history from the 1940s to today.
+
 🔝 Top Streamed Tracks – Explore the 5 most streamed tracks with detailed audio features.
+
 📆 Daily Listening Patterns – Uncover what days users stream the most music.
+
 🎶 Track Attributes – Analyze energy, danceability, speechiness, and more for top tracks.
 
 📊 Tools Used
+
 Power BI – For dashboard design & visualization
+
 Spotify Dataset – Real track-level data including stream counts, audio features, and release dates
 
 🚀 Highlights
+
 Clean, dark-themed UI for better user experience
 
 Interactive filters to explore specific tracks or timeframes
